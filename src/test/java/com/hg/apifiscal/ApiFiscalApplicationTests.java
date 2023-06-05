@@ -1,4 +1,4 @@
-package com.example.apifiscal;
+package com.hg.apifiscal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

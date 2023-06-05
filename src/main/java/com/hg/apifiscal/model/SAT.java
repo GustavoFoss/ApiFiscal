@@ -1,4 +1,4 @@
-package com.example.apifiscal.model;
+package com.hg.apifiscal.model;
 
 
 import jakarta.persistence.GeneratedValue;
